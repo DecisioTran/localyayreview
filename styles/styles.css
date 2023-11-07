@@ -1,0 +1,11 @@
+.yay-local-display {
+  scroll-behavior: smooth;
+  color: #456bd2 !important;
+  font-size: 16px;
+  padding: 5px;
+  transition: none;
+}
+
+.main-header-menu .yay-local-display {
+  display: none !important;
+}
