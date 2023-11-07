@@ -57,7 +57,6 @@ function yay_local_review_page_html() {
 	<?php
 }
 
-
 function yay_local_review_go_to_review_button( $title, $post_id ) {
 
     $title = $title.'<a class="yay-local-display" href="#yay-local-review-text-area">Go to Review</a>';
